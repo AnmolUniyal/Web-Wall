@@ -40,4 +40,4 @@ Create a pull request.
 Stay focused, stay productive with Web Wall!
 
 
-Developed by Krishna Saraswat
+Developed by Anmol Uniyal
